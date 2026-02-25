@@ -1,0 +1,1 @@
+﻿app/dashboard/page.tsx(157,138): error TS2339: Property 'center_name' does not exist on type 'Slot'.
